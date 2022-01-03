@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\FR9-LeTrungDuc\FR9-LeTrungDuc\bin\Debug\FR9-LeTrungDuc.exe.config
+C:\Users\Admin\source\repos\FR9-LeTrungDuc\FR9-LeTrungDuc\bin\Debug\FR9-LeTrungDuc.exe
+C:\Users\Admin\source\repos\FR9-LeTrungDuc\FR9-LeTrungDuc\bin\Debug\FR9-LeTrungDuc.pdb
+C:\Users\Admin\source\repos\FR9-LeTrungDuc\FR9-LeTrungDuc\obj\Debug\FR9-LeTrungDuc.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\FR9-LeTrungDuc\FR9-LeTrungDuc\obj\Debug\FR9-LeTrungDuc.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\FR9-LeTrungDuc\FR9-LeTrungDuc\obj\Debug\FR9-LeTrungDuc.exe
+C:\Users\Admin\source\repos\FR9-LeTrungDuc\FR9-LeTrungDuc\obj\Debug\FR9-LeTrungDuc.pdb

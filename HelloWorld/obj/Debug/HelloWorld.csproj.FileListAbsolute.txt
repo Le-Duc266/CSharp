@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\FR9-LeTrungDuc\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\Admin\source\repos\FR9-LeTrungDuc\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\Admin\source\repos\FR9-LeTrungDuc\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\Admin\source\repos\FR9-LeTrungDuc\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\FR9-LeTrungDuc\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\Admin\source\repos\FR9-LeTrungDuc\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\Admin\source\repos\FR9-LeTrungDuc\HelloWorld\obj\Debug\HelloWorld.csprojAssemblyReference.cache
